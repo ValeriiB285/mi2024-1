@@ -21,7 +21,7 @@
         "lat": 48.053,
         "lon": 37.841,
         "strength": 73,
-        "status": "active",
+        "status": "firing",
         "last_seen": "2025-05-03T04:00:00Z",
         "equipment": [
           "T-72B3",
